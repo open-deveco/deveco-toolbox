@@ -9,7 +9,7 @@
 * `deveco-mcp-server` 主要的mcp服务
 
 
-## mcp tools合集 https://img.shields.io/badge/npx-deveco--mcp--server-CB3837?log=npm)](https://www.npmjs.com/package/deveco-mcp-server
+## mcp tools合集 [![npx deveco-mcp-server](https://img.shields.io/badge/npx-deveco--mcp--server-CB3837?logo=npm)](https://www.npmjs.com/package/deveco-mcp-server)
 
 | tool_name  | 主要功能  |
 |---|---|
