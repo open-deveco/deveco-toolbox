@@ -47,8 +47,6 @@
 - [github](https://github.com/open-deveco/deveco-mcp/releases)
 
 
-
-
 ### 下载安装
 
 #### MacOS
@@ -96,6 +94,26 @@
 
 特别注意：
 * 如果IDE不支持`${workspaceFolder}`变量替换，需要手动替换为指定路径。
+
+### ArkTS语法校验插件
+本插件基于鸿蒙官方DevEco Studio编辑器的LSP语言服务器开发，更贴近官方，检查错误更加全面
+
+### 安装方式
+
+安装方式一：在 Toolbox 中直接一键安装 ArkTS 高亮插件
+![alt text](image-28.png)
+
+安装方式二：手动安装 ArkTS 高亮插件
+若本地没有配置对应IDE的bin路径为环境变量，需要手动安装 ArkTS 插件。
+打开Toolbox所在目录，找到 ArkTS 高亮插件 vsix，将插件拖到对应 IDE 插件市场进行安装，安装好后，重启ide。
+
+![alt text](image-22.png)
+
+### 使用方式
+
+打开ide后，右下角有一个状态，表示插件正在初始化，当插件初始化完成后，会变为白色，表示可以正常校验ArkTS语法
+![img.png](image-23.png)
+![img.png](image-24.png)
 
 ### 卸载
 
