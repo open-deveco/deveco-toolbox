@@ -111,7 +111,7 @@
 [https://github.com/your-org/deveco-mcp/issues](https://github.com/open-deveco/deveco-toolbox/issues)
 
 2️⃣ 飞书答疑群（实时互动）
-搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取内测版本、参与功能投票。
+搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
 ![084150c18fb06e0a2ee2e2c62a07110a](https://github.com/user-attachments/assets/a8a1329a-1e5b-42b6-8677-766d72eb34e7)
 我们珍视每一条反馈——你的 issue & 群消息，就是下一个版本更新的源头！
 
