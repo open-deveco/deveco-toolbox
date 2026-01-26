@@ -101,19 +101,21 @@
 ### 安装方式
 
 安装方式一：在 Toolbox 中直接一键安装 ArkTS 高亮插件
-![alt text](image-28.png)
+<img width="440" height="660" alt="image-28" src="https://github.com/user-attachments/assets/fc4d8802-c459-4aad-880f-604572877bab" />
 
 安装方式二：手动安装 ArkTS 高亮插件
 若本地没有配置对应IDE的bin路径为环境变量，需要手动安装 ArkTS 插件。
 打开Toolbox所在目录，找到 ArkTS 高亮插件 vsix，将插件拖到对应 IDE 插件市场进行安装，安装好后，重启ide。
 
-![alt text](image-22.png)
+<img width="1829" height="1188" alt="image-22" src="https://github.com/user-attachments/assets/2e3d4290-5ab1-4076-bd45-938acd50af00" />
 
 ### 使用方式
 
 打开ide后，右下角有一个状态，表示插件正在初始化，当插件初始化完成后，会变为白色，表示可以正常校验ArkTS语法
-![img.png](image-23.png)
-![img.png](image-24.png)
+
+<img width="1834" height="1190" alt="image-23" src="https://github.com/user-attachments/assets/a1551d42-fba9-4abc-9f5d-4b9921c3e092" />
+<img width="1834" height="1190" alt="image-24" src="https://github.com/user-attachments/assets/a9ee6d4a-ba7d-4520-9058-3eaac953fd0a" />
+
 
 ### 卸载
 
