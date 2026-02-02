@@ -128,7 +128,7 @@
 
 如果你在配置或使用[鸿蒙MCP工具箱」时遇到任何阻碍，欢迎随时联系我们：
 1️⃣ GitHub Issue（技术/需求/缺陷均可）
-[https://github.com/your-org/deveco-mcp/issues](https://github.com/open-deveco/deveco-toolbox/issues)
+[https://github.com/open-deveco/deveco-toolbox/issues](https://github.com/open-deveco/deveco-toolbox/issues)
 
 2️⃣ 飞书答疑群（实时互动）
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
