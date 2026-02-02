@@ -1,0 +1,1770 @@
+-------------------------------[ability]-------------------------------
+
+
+----------------------------------WindowManagerService----------------------------------
+WindowName: FluentNews0
+DisplayId: 0
+WinId: 34
+Pid: 3282
+Type: 1
+Mode: 1
+Flag: 0
+Orientation: 0
+FirstFrameCallbackCalled: 1
+IsVisible: true
+isRSVisible: true
+Focusable: true
+DecoStatus: false
+isPrivacyMode: false
+WindowRect: [ 0, 0, 1316, 2832 ]
+scaleX: 1
+scaleY: 1
+Offset: [ 0, 0 ]
+Scale: [ 1, 1, 0.5, 0.5 ]
+ParentWindowId: 0
+bundleName:com.example.FluentNews
+moduleName:entry
+ LastRequestVsyncTime: 1234285712991
+ transactionFlags: [3282,11]
+ last vsyncId: 73905
+ finishCount:[ ]
+  |-> root childSize:1
+    | ID: 0
+    | compid: 
+    | text: 
+    | accessibilityText: 
+    | accessibilityGroup: 0
+    | accessibilityLevel: auto
+    | accessibilityCustomRole: 
+    | top: 0.000000
+    | left: 0.000000
+    | width: 1316.000000
+    | height: 2832.000000
+    | visible: 1
+    | clickable: 0
+    | longclickable: 0
+    | checkable: 0
+    | scrollable: 0
+    | checked: 0
+    | hint: 
+    | childTree: -1
+    |-> Column childSize:2
+      | ID: 4
+      | compid: 
+      | text: 
+      | accessibilityText: 
+      | accessibilityGroup: 0
+      | accessibilityLevel: auto
+      | accessibilityCustomRole: 
+      | top: 136.000000
+      | left: 0.000000
+      | width: 1316.000000
+      | height: 2598.000000
+      | visible: 1
+      | clickable: 0
+      | longclickable: 0
+      | checkable: 0
+      | scrollable: 0
+      | checked: 0
+      | hint: 
+      | childTree: -1
+      |-> Row childSize:3
+        | ID: 5
+        | compid: 
+        | text: 
+        | accessibilityText: 
+        | accessibilityGroup: 0
+        | accessibilityLevel: auto
+        | accessibilityCustomRole: 
+        | top: 136.000000
+        | left: 0.000000
+        | width: 1316.000000
+        | height: 196.000000
+        | visible: 1
+        | clickable: 0
+        | longclickable: 0
+        | checkable: 0
+        | scrollable: 0
+        | checked: 0
+        | hint: 
+        | childTree: -1
+        |-> Row childSize:2
+          | ID: 6
+          | compid: 
+          | text: 
+          | accessibilityText: 
+          | accessibilityGroup: 0
+          | accessibilityLevel: auto
+          | accessibilityCustomRole: 
+          | top: 201.000000
+          | left: 56.000000
+          | width: 283.000000
+          | height: 66.000000
+          | visible: 1
+          | clickable: 1
+          | longclickable: 0
+          | checkable: 0
+          | scrollable: 0
+          | checked: 0
+          | hint: 
+          | childTree: -1
+          |-> Text childSize:0
+              ID: 7
+              compid: 
+              text: 定位中...
+              accessibilityText: 
+              accessibilityGroup: 0
+              accessibilityLevel: auto
+              accessibilityCustomRole: 
+              top: 201.000000
+              left: 56.000000
+              width: 213.000000
+              height: 66.000000
+              visible: 1
+              clickable: 0
+              longclickable: 0
+              checkable: 0
+              scrollable: 0
+              checked: 0
+              hint: 
+              childTree: -1
+          |-> Image childSize:0
+              ID: 8
+              compid: 
+              text: 
+              accessibilityText: 
+              accessibilityGroup: 0
+              accessibilityLevel: auto
+              accessibilityCustomRole: 
+              top: 206.000000
+              left: 283.000000
+              width: 56.000000
+              height: 56.000000
+              visible: 1
+              clickable: 0
+              longclickable: 0
+              checkable: 0
+              scrollable: 0
+              checked: 0
+              hint: 
+              childTree: -1
+        |-> Text childSize:0
+            ID: 9
+            compid: 
+            text: Fluent News
+            accessibilityText: 
+            accessibilityGroup: 0
+            accessibilityLevel: auto
+            accessibilityCustomRole: 
+            top: 193.000000
+            left: 339.000000
+            width: 837.000000
+            height: 82.000000
+            visible: 1
+            clickable: 0
+            longclickable: 0
+            checkable: 0
+            scrollable: 0
+            checked: 0
+            hint: 
+            childTree: -1
+        |-> Image childSize:0
+            ID: 10
+            compid: 
+            text: 
+            accessibilityText: 
+            accessibilityGroup: 0
+            accessibilityLevel: auto
+            accessibilityCustomRole: 
+            top: 192.000000
+            left: 1176.000000
+            width: 84.000000
+            height: 84.000000
+            visible: 1
+            clickable: 0
+            longclickable: 0
+            checkable: 0
+            scrollable: 0
+            checked: 0
+            hint: 
+            childTree: -1
+      |-> Tabs childSize:3
+        | ID: 11
+        | compid: 
+        | text: 
+        | accessibilityText: 
+        | accessibilityGroup: 0
+        | accessibilityLevel: auto
+        | accessibilityCustomRole: 
+        | top: 332.000000
+        | left: 0.000000
+        | width: 1316.000000
+        | height: 2598.000000
+        | visible: 1
+        | clickable: 0
+        | longclickable: 0
+        | checkable: 0
+        | scrollable: 0
+        | checked: 0
+        | hint: 
+        | childTree: -1
+        |-> Swiper childSize:1
+          | ID: 12
+          | compid: 
+          | text: 
+          | accessibilityText: 
+          | accessibilityGroup: 0
+          | accessibilityLevel: auto
+          | accessibilityCustomRole: 
+          | top: 332.000000
+          | left: 0.000000
+          | width: 1316.000000
+          | height: 2500.000000
+          | visible: 1
+          | clickable: 0
+          | longclickable: 0
+          | checkable: 0
+          | scrollable: 0
+          | checked: 0
+          | hint: 
+          | childTree: -1
+          |-> TabContent childSize:1
+            | ID: 19
+            | compid: 
+            | text: 
+            | accessibilityText: 
+            | accessibilityGroup: 0
+            | accessibilityLevel: auto
+            | accessibilityCustomRole: 
+            | top: 332.000000
+            | left: 0.000000
+            | width: 1316.000000
+            | height: 2402.000000
+            | visible: 1
+            | clickable: 0
+            | longclickable: 0
+            | checkable: 0
+            | scrollable: 0
+            | checked: 0
+            | hint: 
+            | childTree: -1
+            |-> Column childSize:1
+              | ID: 35
+              | compid: 
+              | text: 
+              | accessibilityText: 
+              | accessibilityGroup: 0
+              | accessibilityLevel: auto
+              | accessibilityCustomRole: 
+              | top: 332.000000
+              | left: 0.000000
+              | width: 1316.000000
+              | height: 2402.000000
+              | visible: 1
+              | clickable: 0
+              | longclickable: 0
+              | checkable: 0
+              | scrollable: 0
+              | checked: 0
+              | hint: 
+              | childTree: -1
+              |-> Tabs childSize:3
+                | ID: 36
+                | compid: 
+                | text: 
+                | accessibilityText: 
+                | accessibilityGroup: 0
+                | accessibilityLevel: auto
+                | accessibilityCustomRole: 
+                | top: 332.000000
+                | left: 0.000000
+                | width: 1316.000000
+                | height: 2500.000000
+                | visible: 1
+                | clickable: 0
+                | longclickable: 0
+                | checkable: 0
+                | scrollable: 0
+                | checked: 0
+                | hint: 
+                | childTree: -1
+                |-> Swiper childSize:1
+                  | ID: 37
+                  | compid: 
+                  | text: 
+                  | accessibilityText: 
+                  | accessibilityGroup: 0
+                  | accessibilityLevel: auto
+                  | accessibilityCustomRole: 
+                  | top: 528.000000
+                  | left: 0.000000
+                  | width: 1316.000000
+                  | height: 2304.000000
+                  | visible: 1
+                  | clickable: 0
+                  | longclickable: 0
+                  | checkable: 0
+                  | scrollable: 1
+                  | checked: 0
+                  | hint: 
+                  | childTree: -1
+                  |-> TabContent childSize:1
+                    | ID: 46
+                    | compid: 
+                    | text: 
+                    | accessibilityText: 
+                    | accessibilityGroup: 0
+                    | accessibilityLevel: auto
+                    | accessibilityCustomRole: 
+                    | top: 528.000000
+                    | left: 0.000000
+                    | width: 1316.000000
+                    | height: 2206.000000
+                    | visible: 1
+                    | clickable: 0
+                    | longclickable: 0
+                    | checkable: 0
+                    | scrollable: 0
+                    | checked: 0
+                    | hint: 
+                    | childTree: -1
+                    |-> Column childSize:1
+                      | ID: 76
+                      | compid: 
+                      | text: 
+                      | accessibilityText: 
+                      | accessibilityGroup: 0
+                      | accessibilityLevel: auto
+                      | accessibilityCustomRole: 
+                      | top: 528.000000
+                      | left: 0.000000
+                      | width: 1316.000000
+                      | height: 2206.000000
+                      | visible: 1
+                      | clickable: 0
+                      | longclickable: 0
+                      | checkable: 0
+                      | scrollable: 0
+                      | checked: 0
+                      | hint: 
+                      | childTree: -1
+                      |-> Column childSize:3
+                        | ID: 78
+                        | compid: 
+                        | text: 
+                        | accessibilityText: 
+                        | accessibilityGroup: 0
+                        | accessibilityLevel: auto
+                        | accessibilityCustomRole: 
+                        | top: 528.000000
+                        | left: 0.000000
+                        | width: 1316.000000
+                        | height: 2206.000000
+                        | visible: 1
+                        | clickable: 0
+                        | longclickable: 0
+                        | checkable: 0
+                        | scrollable: 0
+                        | checked: 0
+                        | hint: 
+                        | childTree: -1
+                        |-> Stack childSize:1
+                          | ID: 79
+                          | compid: 
+                          | text: 
+                          | accessibilityText: 
+                          | accessibilityGroup: 0
+                          | accessibilityLevel: auto
+                          | accessibilityCustomRole: 
+                          | top: 528.000000
+                          | left: 0.000000
+                          | width: 1316.000000
+                          | height: 0.000000
+                          | visible: 1
+                          | clickable: 0
+                          | longclickable: 0
+                          | checkable: 0
+                          | scrollable: 0
+                          | checked: 0
+                          | hint: 
+                          | childTree: -1
+                          |-> Stack childSize:2
+                            | ID: 81
+                            | compid: 
+                            | text: 
+                            | accessibilityText: 
+                            | accessibilityGroup: 0
+                            | accessibilityLevel: auto
+                            | accessibilityCustomRole: 
+                            | top: 528.000000
+                            | left: 0.000000
+                            | width: 1316.000000
+                            | height: 0.000000
+                            | visible: 1
+                            | clickable: 0
+                            | longclickable: 0
+                            | checkable: 0
+                            | scrollable: 0
+                            | checked: 0
+                            | hint: 
+                            | childTree: -1
+                            |-> Text childSize:0
+                                ID: 82
+                                compid: 
+                                text: 
+                                accessibilityText: 
+                                accessibilityGroup: 0
+                                accessibilityLevel: auto
+                                accessibilityCustomRole: 
+                                top: 528.000000
+                                left: 658.000000
+                                width: 0.000000
+                                height: 0.000000
+                                visible: 1
+                                clickable: 0
+                                longclickable: 0
+                                checkable: 0
+                                scrollable: 0
+                                checked: 0
+                                hint: 
+                                childTree: -1
+                            |-> Stack childSize:2
+                              | ID: 83
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 476.000000
+                              | left: 588.000000
+                              | width: 140.000000
+                              | height: 105.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Canvas childSize:0
+                                  ID: 84
+                                  compid: 
+                                  text: 
+                                  accessibilityText: 
+                                  accessibilityGroup: 0
+                                  accessibilityLevel: auto
+                                  accessibilityCustomRole: 
+                                  top: 476.000000
+                                  left: 588.000000
+                                  width: 140.000000
+                                  height: 105.000000
+                                  visible: 0
+                                  clickable: 0
+                                  longclickable: 0
+                                  checkable: 0
+                                  scrollable: 0
+                                  checked: 0
+                                  hint: 
+                                  childTree: -1
+                              |-> LoadingProgress childSize:0
+                                  ID: 85
+                                  compid: 
+                                  text: 
+                                  accessibilityText: 
+                                  accessibilityGroup: 0
+                                  accessibilityLevel: auto
+                                  accessibilityCustomRole: 
+                                  top: 476.000000
+                                  left: 606.000000
+                                  width: 105.000000
+                                  height: 105.000000
+                                  visible: 0
+                                  clickable: 0
+                                  longclickable: 0
+                                  checkable: 0
+                                  scrollable: 0
+                                  checked: 0
+                                  hint: 
+                                  childTree: -1
+                        |-> Column childSize:1
+                          | ID: 86
+                          | compid: 
+                          | text: 
+                          | accessibilityText: 
+                          | accessibilityGroup: 0
+                          | accessibilityLevel: auto
+                          | accessibilityCustomRole: 
+                          | top: 528.000000
+                          | left: 0.000000
+                          | width: 1316.000000
+                          | height: 2205.000000
+                          | visible: 1
+                          | clickable: 0
+                          | longclickable: 0
+                          | checkable: 0
+                          | scrollable: 0
+                          | checked: 0
+                          | hint: 
+                          | childTree: -1
+                          |-> List childSize:4
+                            | ID: 87
+                            | compid: 
+                            | text: 
+                            | accessibilityText: 
+                            | accessibilityGroup: 0
+                            | accessibilityLevel: auto
+                            | accessibilityCustomRole: 
+                            | top: 528.000000
+                            | left: 0.000000
+                            | width: 1316.000000
+                            | height: 2205.000000
+                            | visible: 1
+                            | clickable: 0
+                            | longclickable: 0
+                            | checkable: 0
+                            | scrollable: 0
+                            | checked: 0
+                            | hint: 
+                            | childTree: -1
+                            |-> ListItem childSize:1
+                              | ID: 96
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 528.000000
+                              | left: 0.000000
+                              | width: 1316.000000
+                              | height: 350.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Row childSize:2
+                                | ID: 97
+                                | compid: 
+                                | text: 
+                                | accessibilityText: 
+                                | accessibilityGroup: 0
+                                | accessibilityLevel: auto
+                                | accessibilityCustomRole: 
+                                | top: 528.000000
+                                | left: 0.000000
+                                | width: 1316.000000
+                                | height: 350.000000
+                                | visible: 1
+                                | clickable: 0
+                                | longclickable: 0
+                                | checkable: 0
+                                | scrollable: 0
+                                | checked: 0
+                                | hint: 
+                                | childTree: -1
+                                |-> Column childSize:3
+                                  | ID: 98
+                                  | compid: 
+                                  | text: 
+                                  | accessibilityText: 
+                                  | accessibilityGroup: 0
+                                  | accessibilityLevel: auto
+                                  | accessibilityCustomRole: 
+                                  | top: 572.000000
+                                  | left: 35.000000
+                                  | width: 861.000000
+                                  | height: 263.000000
+                                  | visible: 1
+                                  | clickable: 0
+                                  | longclickable: 0
+                                  | checkable: 0
+                                  | scrollable: 0
+                                  | checked: 0
+                                  | hint: 
+                                  | childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 99
+                                      compid: 
+                                      text: HarmonyOS 5.0 发布，全面进化
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 572.000000
+                                      left: 35.000000
+                                      width: 828.000000
+                                      height: 66.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 100
+                                      compid: 
+                                      text: HarmonyOS 5.0 带来了全新的分布式能力和更流畅的用户体验...
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 655.000000
+                                      left: 35.000000
+                                      width: 855.000000
+                                      height: 114.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Row childSize:2
+                                    | ID: 101
+                                    | compid: 
+                                    | text: 
+                                    | accessibilityText: 
+                                    | accessibilityGroup: 0
+                                    | accessibilityLevel: auto
+                                    | accessibilityCustomRole: 
+                                    | top: 786.000000
+                                    | left: 35.000000
+                                    | width: 470.000000
+                                    | height: 49.000000
+                                    | visible: 1
+                                    | clickable: 0
+                                    | longclickable: 0
+                                    | checkable: 0
+                                    | scrollable: 0
+                                    | checked: 0
+                                    | hint: 
+                                    | childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 102
+                                        compid: 
+                                        text: HarmonyOS 官方
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 786.000000
+                                        left: 35.000000
+                                        width: 328.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 103
+                                        compid: 
+                                        text: 10:00
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 786.000000
+                                        left: 398.000000
+                                        width: 107.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                |-> Image childSize:0
+                                    ID: 105
+                                    compid: 
+                                    text: 
+                                    accessibilityText: 
+                                    accessibilityGroup: 0
+                                    accessibilityLevel: auto
+                                    accessibilityCustomRole: 
+                                    top: 563.000000
+                                    left: 931.000000
+                                    width: 350.000000
+                                    height: 280.000000
+                                    visible: 1
+                                    clickable: 0
+                                    longclickable: 0
+                                    checkable: 0
+                                    scrollable: 0
+                                    checked: 0
+                                    hint: 
+                                    childTree: -1
+                            |-> ListItem childSize:1
+                              | ID: 106
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 913.000000
+                              | left: 0.000000
+                              | width: 1316.000000
+                              | height: 350.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Row childSize:2
+                                | ID: 107
+                                | compid: 
+                                | text: 
+                                | accessibilityText: 
+                                | accessibilityGroup: 0
+                                | accessibilityLevel: auto
+                                | accessibilityCustomRole: 
+                                | top: 913.000000
+                                | left: 0.000000
+                                | width: 1316.000000
+                                | height: 350.000000
+                                | visible: 1
+                                | clickable: 0
+                                | longclickable: 0
+                                | checkable: 0
+                                | scrollable: 0
+                                | checked: 0
+                                | hint: 
+                                | childTree: -1
+                                |-> Column childSize:3
+                                  | ID: 108
+                                  | compid: 
+                                  | text: 
+                                  | accessibilityText: 
+                                  | accessibilityGroup: 0
+                                  | accessibilityLevel: auto
+                                  | accessibilityCustomRole: 
+                                  | top: 957.000000
+                                  | left: 35.000000
+                                  | width: 861.000000
+                                  | height: 263.000000
+                                  | visible: 1
+                                  | clickable: 0
+                                  | longclickable: 0
+                                  | checkable: 0
+                                  | scrollable: 0
+                                  | checked: 0
+                                  | hint: 
+                                  | childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 109
+                                      compid: 
+                                      text: ArkUI 开发最佳实践
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 957.000000
+                                      left: 35.000000
+                                      width: 508.000000
+                                      height: 66.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 110
+                                      compid: 
+                                      text: 本文介绍了 ArkUI 开发中的性能优化技巧...
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 1040.000000
+                                      left: 35.000000
+                                      width: 838.000000
+                                      height: 114.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Row childSize:2
+                                    | ID: 111
+                                    | compid: 
+                                    | text: 
+                                    | accessibilityText: 
+                                    | accessibilityGroup: 0
+                                    | accessibilityLevel: auto
+                                    | accessibilityCustomRole: 
+                                    | top: 1171.000000
+                                    | left: 35.000000
+                                    | width: 353.000000
+                                    | height: 49.000000
+                                    | visible: 1
+                                    | clickable: 0
+                                    | longclickable: 0
+                                    | checkable: 0
+                                    | scrollable: 0
+                                    | checked: 0
+                                    | hint: 
+                                    | childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 112
+                                        compid: 
+                                        text: 开发者社区
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1171.000000
+                                        left: 35.000000
+                                        width: 211.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 113
+                                        compid: 
+                                        text: 11:30
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1171.000000
+                                        left: 281.000000
+                                        width: 107.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                |-> Image childSize:0
+                                    ID: 115
+                                    compid: 
+                                    text: 
+                                    accessibilityText: 
+                                    accessibilityGroup: 0
+                                    accessibilityLevel: auto
+                                    accessibilityCustomRole: 
+                                    top: 948.000000
+                                    left: 931.000000
+                                    width: 350.000000
+                                    height: 280.000000
+                                    visible: 1
+                                    clickable: 0
+                                    longclickable: 0
+                                    checkable: 0
+                                    scrollable: 0
+                                    checked: 0
+                                    hint: 
+                                    childTree: -1
+                            |-> ListItem childSize:1
+                              | ID: 116
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 1298.000000
+                              | left: 0.000000
+                              | width: 1316.000000
+                              | height: 350.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Row childSize:2
+                                | ID: 117
+                                | compid: 
+                                | text: 
+                                | accessibilityText: 
+                                | accessibilityGroup: 0
+                                | accessibilityLevel: auto
+                                | accessibilityCustomRole: 
+                                | top: 1298.000000
+                                | left: 0.000000
+                                | width: 1316.000000
+                                | height: 350.000000
+                                | visible: 1
+                                | clickable: 0
+                                | longclickable: 0
+                                | checkable: 0
+                                | scrollable: 0
+                                | checked: 0
+                                | hint: 
+                                | childTree: -1
+                                |-> Column childSize:3
+                                  | ID: 118
+                                  | compid: 
+                                  | text: 
+                                  | accessibilityText: 
+                                  | accessibilityGroup: 0
+                                  | accessibilityLevel: auto
+                                  | accessibilityCustomRole: 
+                                  | top: 1342.000000
+                                  | left: 35.000000
+                                  | width: 861.000000
+                                  | height: 263.000000
+                                  | visible: 1
+                                  | clickable: 0
+                                  | longclickable: 0
+                                  | checkable: 0
+                                  | scrollable: 0
+                                  | checked: 0
+                                  | hint: 
+                                  | childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 119
+                                      compid: 
+                                      text: Fluent News 示例应用解析
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 1342.000000
+                                      left: 35.000000
+                                      width: 682.000000
+                                      height: 66.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 120
+                                      compid: 
+                                      text: 深入解析 Fluent News 首页的实现细节...
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 1425.000000
+                                      left: 35.000000
+                                      width: 795.000000
+                                      height: 114.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Row childSize:2
+                                    | ID: 121
+                                    | compid: 
+                                    | text: 
+                                    | accessibilityText: 
+                                    | accessibilityGroup: 0
+                                    | accessibilityLevel: auto
+                                    | accessibilityCustomRole: 
+                                    | top: 1556.000000
+                                    | left: 35.000000
+                                    | width: 311.000000
+                                    | height: 49.000000
+                                    | visible: 1
+                                    | clickable: 0
+                                    | longclickable: 0
+                                    | checkable: 0
+                                    | scrollable: 0
+                                    | checked: 0
+                                    | hint: 
+                                    | childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 122
+                                        compid: 
+                                        text: 技术博客
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1556.000000
+                                        left: 35.000000
+                                        width: 169.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 123
+                                        compid: 
+                                        text: 14:20
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1556.000000
+                                        left: 239.000000
+                                        width: 107.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                |-> Image childSize:0
+                                    ID: 125
+                                    compid: 
+                                    text: 
+                                    accessibilityText: 
+                                    accessibilityGroup: 0
+                                    accessibilityLevel: auto
+                                    accessibilityCustomRole: 
+                                    top: 1333.000000
+                                    left: 931.000000
+                                    width: 350.000000
+                                    height: 280.000000
+                                    visible: 1
+                                    clickable: 0
+                                    longclickable: 0
+                                    checkable: 0
+                                    scrollable: 0
+                                    checked: 0
+                                    hint: 
+                                    childTree: -1
+                            |-> ListItem childSize:1
+                              | ID: 126
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 1683.000000
+                              | left: 0.000000
+                              | width: 1316.000000
+                              | height: 350.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Row childSize:2
+                                | ID: 127
+                                | compid: 
+                                | text: 
+                                | accessibilityText: 
+                                | accessibilityGroup: 0
+                                | accessibilityLevel: auto
+                                | accessibilityCustomRole: 
+                                | top: 1683.000000
+                                | left: 0.000000
+                                | width: 1316.000000
+                                | height: 350.000000
+                                | visible: 1
+                                | clickable: 0
+                                | longclickable: 0
+                                | checkable: 0
+                                | scrollable: 0
+                                | checked: 0
+                                | hint: 
+                                | childTree: -1
+                                |-> Column childSize:3
+                                  | ID: 128
+                                  | compid: 
+                                  | text: 
+                                  | accessibilityText: 
+                                  | accessibilityGroup: 0
+                                  | accessibilityLevel: auto
+                                  | accessibilityCustomRole: 
+                                  | top: 1727.000000
+                                  | left: 35.000000
+                                  | width: 861.000000
+                                  | height: 263.000000
+                                  | visible: 1
+                                  | clickable: 0
+                                  | longclickable: 0
+                                  | checkable: 0
+                                  | scrollable: 0
+                                  | checked: 0
+                                  | hint: 
+                                  | childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 129
+                                      compid: 
+                                      text: 2025年科技趋势展望
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 1727.000000
+                                      left: 35.000000
+                                      width: 527.000000
+                                      height: 66.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Text childSize:0
+                                      ID: 130
+                                      compid: 
+                                      text: AI、量子计算等技术将如何改变我们的生活...
+                                      accessibilityText: 
+                                      accessibilityGroup: 0
+                                      accessibilityLevel: auto
+                                      accessibilityCustomRole: 
+                                      top: 1810.000000
+                                      left: 35.000000
+                                      width: 830.000000
+                                      height: 114.000000
+                                      visible: 1
+                                      clickable: 0
+                                      longclickable: 0
+                                      checkable: 0
+                                      scrollable: 0
+                                      checked: 0
+                                      hint: 
+                                      childTree: -1
+                                  |-> Row childSize:2
+                                    | ID: 131
+                                    | compid: 
+                                    | text: 
+                                    | accessibilityText: 
+                                    | accessibilityGroup: 0
+                                    | accessibilityLevel: auto
+                                    | accessibilityCustomRole: 
+                                    | top: 1941.000000
+                                    | left: 35.000000
+                                    | width: 311.000000
+                                    | height: 49.000000
+                                    | visible: 1
+                                    | clickable: 0
+                                    | longclickable: 0
+                                    | checkable: 0
+                                    | scrollable: 0
+                                    | checked: 0
+                                    | hint: 
+                                    | childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 132
+                                        compid: 
+                                        text: 科技前沿
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1941.000000
+                                        left: 35.000000
+                                        width: 169.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                    |-> Text childSize:0
+                                        ID: 133
+                                        compid: 
+                                        text: 16:45
+                                        accessibilityText: 
+                                        accessibilityGroup: 0
+                                        accessibilityLevel: auto
+                                        accessibilityCustomRole: 
+                                        top: 1941.000000
+                                        left: 239.000000
+                                        width: 107.000000
+                                        height: 49.000000
+                                        visible: 1
+                                        clickable: 0
+                                        longclickable: 0
+                                        checkable: 0
+                                        scrollable: 0
+                                        checked: 0
+                                        hint: 
+                                        childTree: -1
+                                |-> Image childSize:0
+                                    ID: 135
+                                    compid: 
+                                    text: 
+                                    accessibilityText: 
+                                    accessibilityGroup: 0
+                                    accessibilityLevel: auto
+                                    accessibilityCustomRole: 
+                                    top: 1718.000000
+                                    left: 931.000000
+                                    width: 350.000000
+                                    height: 280.000000
+                                    visible: 1
+                                    clickable: 0
+                                    longclickable: 0
+                                    checkable: 0
+                                    scrollable: 0
+                                    checked: 0
+                                    hint: 
+                                    childTree: -1
+                        |-> Stack childSize:1
+                          | ID: 89
+                          | compid: 
+                          | text: 
+                          | accessibilityText: 
+                          | accessibilityGroup: 0
+                          | accessibilityLevel: auto
+                          | accessibilityCustomRole: 
+                          | top: 2733.000000
+                          | left: 0.000000
+                          | width: 1316.000000
+                          | height: 0.000000
+                          | visible: 1
+                          | clickable: 0
+                          | longclickable: 0
+                          | checkable: 0
+                          | scrollable: 0
+                          | checked: 0
+                          | hint: 
+                          | childTree: -1
+                          |-> Row childSize:2
+                            | ID: 91
+                            | compid: 
+                            | text: 
+                            | accessibilityText: 
+                            | accessibilityGroup: 0
+                            | accessibilityLevel: auto
+                            | accessibilityCustomRole: 
+                            | top: 2733.000000
+                            | left: 592.000000
+                            | width: 133.000000
+                            | height: 0.000000
+                            | visible: 1
+                            | clickable: 0
+                            | longclickable: 0
+                            | checkable: 0
+                            | scrollable: 0
+                            | checked: 0
+                            | hint: 
+                            | childTree: -1
+                            |-> Stack childSize:2
+                              | ID: 92
+                              | compid: 
+                              | text: 
+                              | accessibilityText: 
+                              | accessibilityGroup: 0
+                              | accessibilityLevel: auto
+                              | accessibilityCustomRole: 
+                              | top: 2681.000000
+                              | left: 592.000000
+                              | width: 105.000000
+                              | height: 105.000000
+                              | visible: 1
+                              | clickable: 0
+                              | longclickable: 0
+                              | checkable: 0
+                              | scrollable: 0
+                              | checked: 0
+                              | hint: 
+                              | childTree: -1
+                              |-> Image childSize:0
+                                  ID: 93
+                                  compid: 
+                                  text: 
+                                  accessibilityText: 
+                                  accessibilityGroup: 0
+                                  accessibilityLevel: auto
+                                  accessibilityCustomRole: 
+                                  top: 2681.000000
+                                  left: 592.000000
+                                  width: 105.000000
+                                  height: 105.000000
+                                  visible: 0
+                                  clickable: 0
+                                  longclickable: 0
+                                  checkable: 0
+                                  scrollable: 0
+                                  checked: 0
+                                  hint: 
+                                  childTree: -1
+                              |-> Image childSize:0
+                                  ID: 94
+                                  compid: 
+                                  text: 
+                                  accessibilityText: 
+                                  accessibilityGroup: 0
+                                  accessibilityLevel: auto
+                                  accessibilityCustomRole: 
+                                  top: 2681.000000
+                                  left: 592.000000
+                                  width: 105.000000
+                                  height: 105.000000
+                                  visible: 0
+                                  clickable: 0
+                                  longclickable: 0
+                                  checkable: 0
+                                  scrollable: 0
+                                  checked: 0
+                                  hint: 
+                                  childTree: -1
+                            |-> Text childSize:0
+                                ID: 95
+                                compid: 
+                                text: 
+                                accessibilityText: 
+                                accessibilityGroup: 0
+                                accessibilityLevel: auto
+                                accessibilityCustomRole: 
+                                top: 2733.000000
+                                left: 725.000000
+                                width: 0.000000
+                                height: 0.000000
+                                visible: 1
+                                clickable: 0
+                                longclickable: 0
+                                checkable: 0
+                                scrollable: 0
+                                checked: 0
+                                hint: 
+                                childTree: -1
+                |-> Divider childSize:0
+                    ID: 38
+                    compid: 
+                    text: 
+                    accessibilityText: 
+                    accessibilityGroup: 0
+                    accessibilityLevel: auto
+                    accessibilityCustomRole: 
+                    top: 528.000000
+                    left: 0.000000
+                    width: 1316.000000
+                    height: 0.000000
+                    visible: 1
+                    clickable: 0
+                    longclickable: 0
+                    checkable: 0
+                    scrollable: 0
+                    checked: 0
+                    hint: 
+                    childTree: -1
+                |-> TabBar childSize:1
+                  | ID: 39
+                  | compid: 
+                  | text: 
+                  | accessibilityText: 
+                  | accessibilityGroup: 0
+                  | accessibilityLevel: no
+                  | accessibilityCustomRole: 
+                  | top: 332.000000
+                  | left: 0.000000
+                  | width: 1317.000000
+                  | height: 197.000000
+                  | visible: 1
+                  | clickable: 0
+                  | longclickable: 0
+                  | checkable: 0
+                  | scrollable: 1
+                  | checked: 0
+                  | hint: 
+                  | childTree: -1
+                  |-> Column childSize:1
+                    | ID: 55
+                    | compid: 
+                    | text: 
+                    | accessibilityText: 
+                    | accessibilityGroup: 0
+                    | accessibilityLevel: auto
+                    | accessibilityCustomRole: 
+                    | top: 332.000000
+                    | left: 0.000000
+                    | width: 1317.000000
+                    | height: 197.000000
+                    | visible: 1
+                    | clickable: 1
+                    | longclickable: 0
+                    | checkable: 0
+                    | scrollable: 0
+                    | checked: 0
+                    | hint: 
+                    | childTree: -1
+                    |-> Column childSize:2
+                      | ID: 56
+                      | compid: 
+                      | text: 
+                      | accessibilityText: 
+                      | accessibilityGroup: 0
+                      | accessibilityLevel: auto
+                      | accessibilityCustomRole: 
+                      | top: 347.000000
+                      | left: 0.000000
+                      | width: 1316.000000
+                      | height: 167.000000
+                      | visible: 1
+                      | clickable: 0
+                      | longclickable: 0
+                      | checkable: 0
+                      | scrollable: 0
+                      | checked: 0
+                      | hint: 
+                      | childTree: -1
+                      |-> Text childSize:0
+                          ID: 57
+                          compid: 
+                          text: 全部
+                          accessibilityText: 
+                          accessibilityGroup: 0
+                          accessibilityLevel: auto
+                          accessibilityCustomRole: 
+                          top: 406.000000
+                          left: 602.000000
+                          width: 112.000000
+                          height: 77.000000
+                          visible: 1
+                          clickable: 0
+                          longclickable: 0
+                          checkable: 0
+                          scrollable: 0
+                          checked: 0
+                          hint: 
+                          childTree: -1
+                      |-> Divider childSize:0
+                          ID: 58
+                          compid: 
+                          text: 
+                          accessibilityText: 
+                          accessibilityGroup: 0
+                          accessibilityLevel: auto
+                          accessibilityCustomRole: 
+                          top: 507.000000
+                          left: 0.000000
+                          width: 1316.000000
+                          height: 7.000000
+                          visible: 1
+                          clickable: 0
+                          longclickable: 0
+                          checkable: 0
+                          scrollable: 0
+                          checked: 0
+                          hint: 
+                          childTree: -1
+        |-> Divider childSize:0
+            ID: 13
+            compid: 
+            text: 
+            accessibilityText: 
+            accessibilityGroup: 0
+            accessibilityLevel: auto
+            accessibilityCustomRole: 
+            top: 2734.000000
+            left: 0.000000
+            width: 1316.000000
+            height: 0.000000
+            visible: 1
+            clickable: 0
+            longclickable: 0
+            checkable: 0
+            scrollable: 0
+            checked: 0
+            hint: 
+            childTree: -1
+        |-> TabBar childSize:3
+          | ID: 14
+          | compid: 
+          | text: 
+          | accessibilityText: 
+          | accessibilityGroup: 0
+          | accessibilityLevel: no
+          | accessibilityCustomRole: 
+          | top: 2734.000000
+          | left: 0.000000
+          | width: 1317.000000
+          | height: 197.000000
+          | visible: 1
+          | clickable: 0
+          | longclickable: 0
+          | checkable: 0
+          | scrollable: 0
+          | checked: 0
+          | hint: 
+          | childTree: -1
+          |-> Column childSize:1
+            | ID: 22
+            | compid: 
+            | text: 
+            | accessibilityText: 
+            | accessibilityGroup: 0
+            | accessibilityLevel: auto
+            | accessibilityCustomRole: 
+            | top: 2734.000000
+            | left: 0.000000
+            | width: 438.999969
+            | height: 197.000000
+            | visible: 1
+            | clickable: 1
+            | longclickable: 0
+            | checkable: 0
+            | scrollable: 0
+            | checked: 0
+            | hint: 
+            | childTree: -1
+            |-> Column childSize:2
+              | ID: 23
+              | compid: 
+              | text: 
+              | accessibilityText: 
+              | accessibilityGroup: 0
+              | accessibilityLevel: auto
+              | accessibilityCustomRole: 
+              | top: 2734.000000
+              | left: 0.000000
+              | width: 439.000000
+              | height: 196.000000
+              | visible: 1
+              | clickable: 1
+              | longclickable: 0
+              | checkable: 0
+              | scrollable: 0
+              | checked: 0
+              | hint: 
+              | childTree: -1
+              |-> Canvas childSize:0
+                  ID: 24
+                  compid: 
+                  text: 
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2752.000000
+                  left: 167.000000
+                  width: 105.000000
+                  height: 105.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
+              |-> Text childSize:0
+                  ID: 25
+                  compid: 
+                  text: 首页
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2871.000000
+                  left: 184.000000
+                  width: 71.000000
+                  height: 41.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
+          |-> Column childSize:1
+            | ID: 26
+            | compid: 
+            | text: 
+            | accessibilityText: 
+            | accessibilityGroup: 0
+            | accessibilityLevel: auto
+            | accessibilityCustomRole: 
+            | top: 2734.000000
+            | left: 437.999969
+            | width: 438.999969
+            | height: 197.000000
+            | visible: 1
+            | clickable: 1
+            | longclickable: 0
+            | checkable: 0
+            | scrollable: 0
+            | checked: 0
+            | hint: 
+            | childTree: -1
+            |-> Column childSize:2
+              | ID: 27
+              | compid: 
+              | text: 
+              | accessibilityText: 
+              | accessibilityGroup: 0
+              | accessibilityLevel: auto
+              | accessibilityCustomRole: 
+              | top: 2734.000000
+              | left: 437.999969
+              | width: 439.000000
+              | height: 196.000000
+              | visible: 1
+              | clickable: 1
+              | longclickable: 0
+              | checkable: 0
+              | scrollable: 0
+              | checked: 0
+              | hint: 
+              | childTree: -1
+              |-> Canvas childSize:0
+                  ID: 28
+                  compid: 
+                  text: 
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2752.000000
+                  left: 605.000000
+                  width: 105.000000
+                  height: 105.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
+              |-> Text childSize:0
+                  ID: 29
+                  compid: 
+                  text: 视频
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2871.000000
+                  left: 622.000000
+                  width: 71.000000
+                  height: 41.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
+          |-> Column childSize:1
+            | ID: 30
+            | compid: 
+            | text: 
+            | accessibilityText: 
+            | accessibilityGroup: 0
+            | accessibilityLevel: auto
+            | accessibilityCustomRole: 
+            | top: 2734.000000
+            | left: 876.999939
+            | width: 438.999969
+            | height: 197.000000
+            | visible: 1
+            | clickable: 1
+            | longclickable: 0
+            | checkable: 0
+            | scrollable: 0
+            | checked: 0
+            | hint: 
+            | childTree: -1
+            |-> Column childSize:2
+              | ID: 31
+              | compid: 
+              | text: 
+              | accessibilityText: 
+              | accessibilityGroup: 0
+              | accessibilityLevel: auto
+              | accessibilityCustomRole: 
+              | top: 2734.000000
+              | left: 876.999939
+              | width: 439.000000
+              | height: 196.000000
+              | visible: 1
+              | clickable: 1
+              | longclickable: 0
+              | checkable: 0
+              | scrollable: 0
+              | checked: 0
+              | hint: 
+              | childTree: -1
+              |-> Canvas childSize:0
+                  ID: 32
+                  compid: 
+                  text: 
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2752.000000
+                  left: 1044.000000
+                  width: 105.000000
+                  height: 105.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
+              |-> Text childSize:0
+                  ID: 33
+                  compid: 
+                  text: 我的
+                  accessibilityText: 
+                  accessibilityGroup: 0
+                  accessibilityLevel: auto
+                  accessibilityCustomRole: 
+                  top: 2871.000000
+                  left: 1061.000000
+                  width: 71.000000
+                  height: 41.000000
+                  visible: 1
+                  clickable: 0
+                  longclickable: 0
+                  checkable: 0
+                  scrollable: 0
+                  checked: 0
+                  hint: 
+                  childTree: -1
