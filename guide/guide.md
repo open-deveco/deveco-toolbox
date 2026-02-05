@@ -18,7 +18,7 @@
 
 - **ArkTS 高亮插件修复warning识别问题**
 
-  ![image-32](guide/image-32.png)
+  ![image-32](image-32.png)
 
 **v0.1.5**
 2026-01-20 10:00
@@ -93,7 +93,7 @@
 
 首次打开 `Toolbox`，需要在 `Toolbox` 中进行 DevEco Studio 路径，DevEco Studio 为必填项；
 
-![alt text](guide/image-26.png)
+![alt text](image-26.png)
 
 如需要模拟器能力，可以点击展开更多，进行镜像安装路径，以及模拟器安装路径的配置，这两项按需填写；
 已提供自动检测路径，可以一键填充（注意镜像与模拟器安装路径，若路径下无镜像与模拟器，需要手动在IDE中下载）。
@@ -109,19 +109,19 @@
 
 ##### 方法一：Toolbox 一键添加 MCP Server
 
-鼠标悬浮到 DevEco MCP 服务的 "添加到…"，选择需要添加 MCP 服务的 IDE，等待跳转添加。
+鼠标悬浮到 DevEco MCP 服务的 “添加到…”，选择需要添加 MCP 服务的 IDE，等待跳转添加。
 
-![alt text](guide/image-1.png)
+![alt text](image-1.png)
 
 跳转后点击确认/install即可完成配置
 
-![image-3](guide/image-3.png)
+![image-3](image-3.png)
 
-![image-4](guide/image-4.png)
+![image-4](image-4.png)
 
 点击确认后，查看连接上的 MCP Tools。
 
-![alt text](guide/image-2.png)
+![alt text](image-2.png)
 
 连接成功后，就可以开始使用鸿蒙工具箱 MCP。
 
@@ -161,13 +161,13 @@
 
 点击 DevEco MCP 服务卡片，在工具详情界面进行tools的自定义配置。从 v0.1.5 版本起，配置修改后支持热重载，在部分 IDE 中无需重启即可直接生效，大幅提升配置调整效率。
 
-![alt text](guide/image-27.png)
+![alt text](image-27.png)
 
 #### 一键安装插件
 
 在首页点击 "添加到..." 按钮，选择目标 IDE（如 Trae CN / Cursor），即可一键将 ArkTS 高亮插件配置到开发环境中，无需手动繁琐操作。
 
-![alt text](guide/image-28.png)
+![alt text](image-28.png)
 
 **插件下载功能**：点击 "下载插件" 按钮可单独下载插件到本地，如果本地已有最新版本会提示无需重复下载。
 
@@ -175,21 +175,21 @@
 
 点击首页右上角设置图标，选择 "检查更新" 选项。系统将通过 GitHub 检查最新版本，若有更新将弹窗提示，点击确认即可自动下载并安装。
 
-​					 ![alt text](guide/image-25.png) 
+​					 ![alt text](image-25.png) 
 
-![alt text](guide/image-29.png)
+![alt text](image-29.png)
 
 #### 个性化设置 & 配置路径修改
 
 进入设置页面，可根据喜好切换 "深色/浅色" 主题及 "中文/英文" 语言。同时支持重新配置 DevEco Studio、模拟器及镜像的本地路径，修改后自动保存。
 
-![alt text](guide/image-30.png)
+![alt text](image-30.png)
 
 #### 日志地址跳转 & Git 地址与问题反馈地址跳转
 
 在 "关于" 页面，点击 "查看日志" 按钮可打开日志目录排查问题。点击 GitHub 图标可访问代码仓库，点击 "反馈问题" 可跳转至 Issue 页面提交建议。
 
-![alt text](guide/image-31.png)
+![alt text](image-31.png)
 
 
 ## ArkTS校验和高亮插件
@@ -202,36 +202,36 @@
 
 安装方式一：在 Toolbox 中直接一键安装 ArkTS 高亮插件
 
-![alt text](guide/image-28.png)
+![alt text](image-28.png)
 
 安装方式二：手动安装 ArkTS 高亮插件
 若本地没有配置对应IDE的bin路径为环境变量，需要手动安装 ArkTS 插件。
 击 "下载插件" 按钮，会自动下载插件到toolbox目录下：
 打开Toolbox所在目录，找到 ArkTS 高亮插件 vsix，将插件拖到对应 IDE 插件市场进行安装，安装好后，重启ide。
 
-![alt text](guide/image-22.png)
+![alt text](image-22.png)
 
 ### 使用方式
 
 打开ide后，右下角有一个状态，表示插件正在初始化，当插件初始化完成后，会变为白色，表示可以正常校验ArkTS语法
-![img.png](guide/image-23.png)
-![img.png](guide/image-24.png)
+![img.png](image-23.png)
+![img.png](image-24.png)
 
 ## Toolbox 使用最佳实践
 
 ### 使用示例Check+Knowledge实现API升级
 
-<video src="guide/Check+Knowledge Demo.mp4"></video>
+<video src="Check+Knowledge Demo.mp4"></video>
 
 ### Emulator+Dump获取页面结点信息辅助UI布局检查
 
-<video src="guide/Dump.mp4"></video>
+<video src="Dump.mp4"></video>
 
 ### MCP Tools 使用指导
 
 #### 1. Knowledge Base
 
-<video src="guide/Knowledge.mp4"></video>
+<video src="Knowledge.mp4"></video>
 
 **What:**
 
@@ -243,7 +243,7 @@
 
 方式一：使用 DevEco MCP Server 内置知识库（推荐）
 
-![image-33](guide/image-33.png)
+![image-33](image-33.png)
 
 
 方式二：使用独立知识库服务
@@ -275,13 +275,13 @@
 > 3.系统响应：查询到的信息
 > ```
 >
-> ![image-5](guide/image-5.png)
+> ![image-5](image-5.png)
 
 
 
 #### 2. ArkTS Check
 
-<video src="guide/Check.mp4"></video>
+<video src=".\Check.mp4"></video>
 
 **What:**
 
@@ -303,13 +303,13 @@
 > 3.系统响应：文件诊断结果
 > ```
 >
-> ![image-6](guide/image-6.png)
+> ![image-6](image-6.png)
 
 
 
 #### 3. UI dump
 
-<video src="guide/Dump.mp4"></video>
+<video src=".\Dump.mp4"></video>
 
 **What:**
 
@@ -317,7 +317,7 @@
 
 通过Full模式可以获取当前界面的全部结点信息如**结点对应代码位置**：
 
-![image-11](guide/image-11.png)
+![image-11](image-11.png)
 
 | 维度 | 包含内容 | 用途 |
 | :--- | :--- | :--- |
@@ -331,11 +331,11 @@
 | 8. 性能标记 | renderGroup、scrollable、renderFit、dirty 标记 | 是否被提升为独立图层、是否触发重排/重绘 |
 
 e.g：
- [full_dump_FluentNews_20251223205519094.json](guide/full_dump_FluentNews_20251223205519094.json) 
+ [full_dump_FluentNews_20251223205519094.json](full_dump_FluentNews_20251223205519094.json) 
 
 通过 Simple 模式可以获取如下信息：
 
-![image-12](guide/image-12.png)
+![image-12](image-12.png)
 
 | 维度 | 字段示例 | 用途 |
 | :--- | :--- | :--- |
@@ -348,7 +348,7 @@ e.g：
 | 7. 运行时调试辅助 | lastRequestVsyncTime、transactionFlags、finishCount、vsyncId | 卡顿/掉帧分析、帧率对齐、GPU 合成问题追踪 |
 
 e.g：
- [simple_dump_FluentNews_20251223211439146.json](guide/simple_dump_FluentNews_20251223211439146.json) 
+ [simple_dump_FluentNews_20251223211439146.json](simple_dump_FluentNews_20251223211439146.json) 
 
 **Parameter:**
 
@@ -367,7 +367,7 @@ e.g：
 > 3.系统响应：结点信息保存路径
 > ```
 >
-> ![image-7](guide/image-7.png)
+> ![image-7](image-7.png)
 
 > **Notice**:
 >
@@ -380,21 +380,21 @@ e.g：
 
 #### 4. Ui Test
 
-<video src="guide/Dump.mp4"></video>
+<video src="Dump.mp4"></video>
 
 **What:**
 
 ​	UI测试工具，支持 click（单击）、directionalFling（方向滑动）、inputText（输入文本）、keyEvent（按键事件）、截图（Screenshot)五种操作类型。
 
-![image-13](guide/image-13.png)
+![image-13](image-13.png)
 
-![image-14](guide/image-14.png)
+![image-14](image-14.png)
 
-![image-15](guide/image-15.png)
+![image-15](image-15.png)
 
-![image-16](guide/image-16.png)
+![image-16](image-16.png)
 
-![image-17](guide/image-17.png)
+![image-17](image-17.png)
 
 **Parameter:**
 
@@ -416,21 +416,21 @@ e.g：
 > 3.系统响应：图片保存路径
 > ```
 >
-> ![image-8](guide/image-8.png)
+> ![image-8](image-8.png)
 
 
 
 #### 5. Build
 
-<video src="guide/Build.mp4"></video>
+<video src="Build.mp4"></video>
 
 **What:**
 
 编译构建工具，支持构建 Hap 应用/App 应用。
 
-![image-19](guide/image-19.png)
+![image-19](image-19.png)
 
-![image-18](guide/image-18.png)
+![image-18](image-18.png)
 
 **Parameter:**
 
@@ -459,21 +459,21 @@ e.g：
 > [可能的警告信息]
 > ```
 >
-> ![image-9](guide/image-9.png)
+> ![image-9](image-9.png)
 
 #### 6. Start_app
 
-<video src="guide/Emulator.mp4"></video>
+<video src="Emulator.mp4"></video>
 
 **What:**
 
 对应于进行编译构建，构建通过后拉起模拟器并将应用推包至模拟器上。
 
-![image-20](guide/image-20.png)
+![image-20](image-20.png)
 
 如果没有指定设备名称，返回可用设备列表。
 
-![image-21](guide/image-21.png)
+![image-21](image-21.png)
 
 **Parameter:**
 
@@ -515,7 +515,7 @@ e.g：
 > > "startOutput": "start ability successfully.\n"
 > ```
 >
-> ![image-10](guide/image-10.png)
+> ![image-10](image-10.png)
 
 **Notice:**
 需要提前配置镜像
@@ -526,7 +526,7 @@ e.g：
 
 快速创建鸿蒙项目模板工具，支持生成 API 17-22 多版本模板项目，简化项目初始化流程。
 
-![image-34](guide/image-34.png)
+![image-34](image-34.png)
 
 **Parameter:**
 
@@ -567,7 +567,7 @@ e.g：
 >   3. 使用 'start_app' 工具运行到模拟器
 > ```
 >
-> ![image-35](guide/image-35.png)
+> ![image-35](image-35.png)
 
 **Notice:**
 a. 需要提前配置 SDK
