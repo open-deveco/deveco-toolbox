@@ -39,7 +39,26 @@
   }
 }
 ```
-
+特别注意：
+* 如果使用npx配置失败且提示"Platform package deveco-mcp-server-xxx not found."，请将mcp配置文件修改为：
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "--registry=https://registry.npmjs.org",
+        "-y",
+        "deveco-mcp-server"
+      ],
+      "env": {
+        "PROJECT_PATH": "${workspaceFolder}",
+        "DEVECO_PATH": "path to deveco studio"
+      }
+    }
+  }
+}
+```
 ## 下载二进制安装并使用
 
 ### 下载
