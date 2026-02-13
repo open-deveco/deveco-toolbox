@@ -13,7 +13,7 @@
 
 | tool_name  | 主要功能  |
 |---|---|
-|`harmonyos_knowledge_search`|查询鸿蒙云端知识库|
+|`harmonyos_knowledge_search`|查询鸿蒙云端知识库（已实时更新api22)|
 |`check_ets_files`|对ets文件进行语法检查|
 |`build_project`|进行项目构建|
 |`start_app`|在模拟器或者真机中启动应用，支持启动模拟器或选择已连接的真机|
