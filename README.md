@@ -13,11 +13,13 @@
 
 | tool_name  | 主要功能  |
 |---|---|
-|`build_project`|进行项目构建|
+|`harmonyos_knowledge_search`|查询鸿蒙云端知识库|
 |`check_ets_files`|对ets文件进行语法检查|
+|`build_project`|进行项目构建|
 |`start_app`|在模拟器或者真机中启动应用，支持启动模拟器或选择已连接的真机|
 |`get_uidump`|获取app当前页面的ui树|
 |`execute_uitest`|在已启动的app页面中执行点击或者输入动作|
+|`create_harmony_project`|创建鸿蒙模板工程|
 
 ## 使用npx安装MCP服务
 * `PROJECT_PATH` 工程路径
