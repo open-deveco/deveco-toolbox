@@ -150,8 +150,10 @@ faq：
 如果你在配置或使用[鸿蒙MCP工具箱」时遇到任何阻碍，欢迎随时联系我们：
 1️⃣ GitHub Issue（技术/需求/缺陷均可）
 [https://github.com/open-deveco/deveco-toolbox/issues](https://github.com/open-deveco/deveco-toolbox/issues)
+
 2️⃣ 飞书指导文档
 [https://my.feishu.cn/wiki/E19rwYUtbiJtnlkPFBVcvnuUnBd](https://my.feishu.cn/wiki/E19rwYUtbiJtnlkPFBVcvnuUnBd)
+
 3️⃣ 飞书答疑群（实时互动）
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
 ![084150c18fb06e0a2ee2e2c62a07110a](https://github.com/user-attachments/assets/a8a1329a-1e5b-42b6-8677-766d72eb34e7)
