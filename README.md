@@ -148,6 +148,7 @@ faq：
 ### 问题/需求反馈
 
 如果你在配置或使用[鸿蒙MCP工具箱」时遇到任何阻碍，欢迎随时联系我们：
+
 1️⃣ GitHub Issue（技术/需求/缺陷均可）
 [https://github.com/open-deveco/deveco-toolbox/issues](https://github.com/open-deveco/deveco-toolbox/issues)
 
