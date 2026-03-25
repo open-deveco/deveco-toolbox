@@ -1,15 +1,18 @@
 # 鸿蒙 MCP Toolbox 使用指导
 
 ## 更新公告
-v0.1.9
+**v0.1.9**
 2026-03-22 18:00
+
 - 📚 新增了hilog mcp：新增了获取模拟器/真机的hilog/faultlog日志，可以用于排查应用闪退、崩溃或逻辑错误。
 - 🔧 优化了构建和ArkTS Check的超时时限：针对复杂项目，延长了构建与语法检查的允许无返回时长。
 - 🔨 调整了ui dump和test两个工具的名称：将ui dump与uitest更名为get_app_ui_tree与perform_ui_action，提高了模型对该工具的理解度。
 - 🚀 解决了start_app过程中ability识别范围错误的问题：去掉了对一些参数的限制，改为智能获取。
 - 🔨 提供一种轻量级调用mcp的方式：新版本暂时去掉了toolbox界面，用户无须配置环境变量即可使用mcp。
-v0.1.8
+  
+**v0.1.8**
 2026-03-19 18:00
+  
 - 📚 优化了构建和拉起模拟器的流程：解决了构建指令复杂对ai不友好的问题，将构建改为LogVerification（通过日志验证功能）、UIDebug（通过界面校验元素）、PerformanceProfile（解决性能问题）和Release四种场景。
 - 🔧 优化了UI Dump：提高了dump信息的获取效率。
 - 🔨 优化check mcp对大型工程依赖的解析效率：解决了面对一些大型项目返回超时的问题。
@@ -32,24 +35,29 @@ v0.1.8
   }
 }
 注：部分IDE如qoder不支持自动检索当前工作区根目录${workspaceFolder}，需手动更换为项目路径
-v0.1.7
+
+**v0.1.7**
 2026-03-10 18:00
+
 - 📚 知识库内容更新：新增元服务等相关内容。
 - 🔧 支持一键添加到opencode：新增一键添加mcp到opencode中。
 - 🔨 优化check mcp对大型工程依赖的解析效率：解决了面对一些大型项目初始化超时的问题。
 - 🔨 修复 uitest的相关问题：修复了uitest在一些场景下无法正常使用的问题。
 - 🔨 优化hvigor 构建效率：改进了hvigor的调用方式。
-arkts-diagnostic-0.0.6
+- 
+**arkts-diagnostic-0.0.6**
 2026-03-02 17:00
 - 支持代码Hover与代码跳转功能。
 - Hover：将鼠标悬停在符号处显示说明。
 - 跳转与引用：转到定义 — F12、Ctrl+Click 或右键「Go to Definition」；查找引用 — Shift+F12 或右键「Find All References」；在定义处 F12 时由 VSCode 自动显示内联引用。
  ![image-33](guide/image-33.png)
- ![image-34](guide/image-34.png)
-arkts-diagnostic-0.0.5
+![image-34](guide/image-34.png)
+
+**arkts-diagnostic-0.0.5**
 2026-02-27 17:00
 - 鸿蒙工程路径识别升级。修复了必须在根目录下打开的限制，现支持自动向上回溯或向下扫描查找工程，任意子/父目录下均可加载。
 - 修复了超时时间过短的问题。
+  
 **v0.1.6**
 2026-02-04 18:00
 
