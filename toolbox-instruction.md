@@ -1,6 +1,7 @@
 # 鸿蒙 MCP Toolbox 使用指导
 
 ## 更新公告
+
 **v0.1.9**
 2026-03-22 18:00
 
@@ -50,8 +51,9 @@
 - 支持代码Hover与代码跳转功能。
 - Hover：将鼠标悬停在符号处显示说明。
 - 跳转与引用：转到定义 — F12、Ctrl+Click 或右键「Go to Definition」；查找引用 — Shift+F12 或右键「Find All References」；在定义处 F12 时由 VSCode 自动显示内联引用。
- ![image-33](guide/image-33.png)
-![image-34](guide/image-34.png)
+  
+ ![image-36](guide/image-36.png)
+![image-37](guide/image-37.png)
 
 **arkts-diagnostic-0.0.5**
 2026-02-27 17:00
