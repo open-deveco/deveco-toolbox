@@ -1,4 +1,7 @@
 <h1  align="center">DevEco Toolbox</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cec8838f-4e8d-42c1-b38d-5238a354fb03" />
+</p>
 
 `DevEco Toolbox`是一个工具集(依赖于[`DevEco Studio`](https://developer.huawei.com/consumer/cn/download/))。在不打开`DevEco Studio`的情况下，你可以用它在`Trae`、`Curosr`、`Visual Studio Code`等AI IDE中完成鸿蒙应用开发的大多数工作。
 
