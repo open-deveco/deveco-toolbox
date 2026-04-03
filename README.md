@@ -161,6 +161,6 @@ faq：
 
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
 
-<img width="1372" height="1488" alt="Image" src="https://github.com/user-attachments/assets/95820f8b-0474-43be-b3dd-2077860a65ce" />
+<img width="1372" height="1488" alt="Image" src="https://github.com/user-attachments/assets/b49f0df3-e092-4907-8c53-b750e700bb56" />
 我们珍视每一条反馈——你的 issue & 群消息，就是下一个版本更新的源头！
 
