@@ -152,8 +152,8 @@ faq：
 1️⃣ GitHub Issue（技术/需求/缺陷均可）
 [https://github.com/open-deveco/deveco-toolbox/issues](https://github.com/open-deveco/deveco-toolbox/issues)
 
-2️⃣ 飞书指导文档
-[https://my.feishu.cn/wiki/open-deveco/deveco-toolbox](https://my.feishu.cn/wiki/E19rwYUtbiJtnlkPFBVcvnuUnBd)
+2️⃣ 飞书指导文档(1群已满，2群开放中)
+[https://my.feishu.cn/wiki/open-deveco/deveco-toolbox](<img width="1372" height="1488" alt="Image" src="https://github.com/user-attachments/assets/266bc3c0-641a-4772-93a7-d6eb593a2fcd" />)
 
 3️⃣ 飞书答疑群（实时互动）
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
