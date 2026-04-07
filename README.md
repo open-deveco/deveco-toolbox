@@ -19,7 +19,8 @@
 |`start_app`|在模拟器或者真机中启动应用，支持启动模拟器或选择已连接的真机|
 |`get_app_ui_tree`|获取app当前页面的ui树|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
-|`get_hilog_or_faultlog_recent`|获取设备的hilog/faultlog日志，支持对日志进行过滤筛选|
+|`init_project_path`|初始化项目路径|
+|`project_sync`|对鸿蒙项目进行初始化操作|
 
 ## 使用npx安装MCP服务
 * `PROJECT_PATH` 工程路径
