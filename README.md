@@ -15,12 +15,15 @@
 |---|---|
 |`harmonyos_knowledge_search`|查询鸿蒙云端知识库（已实时更新api22)|
 |`check_ets_files`|对ets文件进行语法检查|
+|`check_cpp_files`|对cpp文件进行静态语法检查|
 |`build_project`|进行项目构建|
 |`start_app`|在模拟器或者真机中启动应用，支持启动模拟器或选择已连接的真机|
-|`get_app_ui_tree`|获取app当前页面的ui树|
+|`verify_ui（可选）`|基于自然语言测试用例计划，在 HarmonyOS 设备上自动执行 UI 操作并验证结果|
+|`get_hilog_or_faultlog_recent`|获取模拟器/真机的hilog/faultlog日志|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
-|`init_project_path`|初始化项目路径|
+|`init_project_path（可选）`|初始化项目路径|
 |`project_sync`|对鸿蒙项目进行初始化操作|
+|`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
 
 ## 使用npx安装MCP服务
 * `PROJECT_PATH` 工程路径
