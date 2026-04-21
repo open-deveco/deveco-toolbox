@@ -65,6 +65,124 @@ faq：
   }
 }
 ```
+
+### 主流软件的配置方式
+#### Cursor/Claude Code(项目级MCP）
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+#### VSCode
+```json
+{
+  "servers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+
+#### Qoder/CodeBuddy
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "PROJECT_PATH": "path/to/your/project",//可不填写，通过调用init_project_path初始化
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+
+#### Opnecode（项目级MCP）
+```json
+{
+  "mcp": {
+    "deveco-mcp": {
+      "command": ["npx", "-y", "@deveco-codegenie/mcp@beta"],
+      "type": "local",
+      "enabled": true,
+      "environment": {
+        "PROJECT_PATH": ".",
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+
+#### Trae
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "PROJECT_PATH": "${workspaceFolder}",
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+
+
+#### Qoder CLI（项目级MCP）
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "PROJECT_PATH": ".",
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+
+
 ## 下载二进制安装并使用
 
 ### 下载
