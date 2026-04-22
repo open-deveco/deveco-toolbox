@@ -27,7 +27,8 @@
 
 ### 主流软件的配置方式
 <details>
-<summary>#### Cursor/Claude Code(项目级MCP）</summary>
+<summary>Cursor/Claude Code(项目级MCP）</summary>
+  
 ```json
 {
   "mcpServers": {
@@ -44,6 +45,7 @@
   }
 }
 ```
+</details>
 
 #### VSCode
 ```json
