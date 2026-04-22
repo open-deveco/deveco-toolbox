@@ -45,7 +45,9 @@
   }
 }
 ```
+
 </details>
+
 
 </details>
 <summary>VSCode</summary>
@@ -66,7 +68,9 @@
   }
 }
 ```
+
 </details>
+
 
 </details>
 <summary>Qoder/CodeBuddy</summary>
@@ -88,7 +92,9 @@
   }
 }
 ```
+
 </details>
+
 
 </details>
 <summary>Opnecode（项目级MCP）</summary>
@@ -108,7 +114,9 @@
   }
 }
 ```
+
 </details>
+
 
 </details>
 <summary>Trae</summary>
@@ -130,7 +138,9 @@
   }
 }
 ```
+
 </details>
+
 
 </details>
 <summary>Qoder CLI（项目级MCP）</summary>
@@ -152,6 +162,7 @@
   }
 }
 ```
+
 </details>
 
 ## 下载二进制安装并使用
