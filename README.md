@@ -45,8 +45,8 @@
   }
 }
 ```
-
 </details>
+<details>
 <summary>VSCode</summary>
 
 ```json
@@ -65,9 +65,9 @@
   }
 }
 ```
-
-
 </details>
+
+<details>
 <summary>Qoder/CodeBuddy</summary>
 
 ```json
@@ -87,9 +87,9 @@
   }
 }
 ```
-
-
 </details>
+
+<details>
 <summary>Opnecode（项目级MCP）</summary>
 
 ```json
@@ -107,9 +107,9 @@
   }
 }
 ```
-
-
 </details>
+
+<details>
 <summary>Trae</summary>
 
 ```json
@@ -129,9 +129,9 @@
   }
 }
 ```
-
-
 </details>
+
+<details>
 <summary>Qoder CLI（项目级MCP）</summary>
 
 ```json
