@@ -25,7 +25,7 @@
 |`project_sync`|对鸿蒙项目进行初始化操作|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
 
-### 主流软件的配置方式
+### 主流软件的配置方式(在CLI上使用配置项目级MCP)
 <details>
 <summary>Cursor</summary>
   
