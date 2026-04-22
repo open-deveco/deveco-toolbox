@@ -25,47 +25,6 @@
 |`project_sync`|对鸿蒙项目进行初始化操作|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
 
-## 使用npx安装MCP服务
-* `PROJECT_PATH` 工程路径
-* `DEVECO_PATH` `DevEco Studio`的安装路径
-```json
-{
-  "mcpServers": {
-    "deveco-mcp": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "deveco-mcp-server"
-      ],
-      "env": {
-        "PROJECT_PATH": "${workspaceFolder}",
-        "DEVECO_PATH": "path to deveco studio"
-      }
-    }
-  }
-}
-```
-faq：
-* 如果使用 npx 配置失败且提示 "Platform package deveco-mcp-server-xxx not found"，通常是由于用户/IDE使用了国内 npm 镜像源，而国内镜像源未及时同步导致的。请将 MCP 配置文件修改为：
-```json
-{
-  "mcpServers": {
-    "deveco-mcp": {
-      "command": "npx",
-      "args": [
-        "--registry=https://registry.npmjs.org",
-        "-y",
-        "deveco-mcp-server"
-      ],
-      "env": {
-        "PROJECT_PATH": "${workspaceFolder}",
-        "DEVECO_PATH": "path to deveco studio"
-      }
-    }
-  }
-}
-```
-
 ### 主流软件的配置方式
 #### Cursor/Claude Code(项目级MCP）
 ```json
