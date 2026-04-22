@@ -47,9 +47,6 @@
 ```
 
 </details>
-
-
-</details>
 <summary>VSCode</summary>
 
 ```json
@@ -68,8 +65,6 @@
   }
 }
 ```
-
-</details>
 
 
 </details>
@@ -93,8 +88,6 @@
 }
 ```
 
-</details>
-
 
 </details>
 <summary>Opnecode（项目级MCP）</summary>
@@ -114,8 +107,6 @@
   }
 }
 ```
-
-</details>
 
 
 </details>
@@ -139,8 +130,6 @@
 }
 ```
 
-</details>
-
 
 </details>
 <summary>Qoder CLI（项目级MCP）</summary>
@@ -162,6 +151,7 @@
   }
 }
 ```
+
 
 </details>
 
