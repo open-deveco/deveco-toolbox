@@ -25,7 +25,12 @@
 |`project_sync`|对鸿蒙项目进行初始化操作|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
 
-### 主流软件的配置方式(在CLI上使用配置项目级MCP)
+### 主流软件的配置方式
+```json
+1.在CLI上使用推荐配置项目级MCP
+2.支持智能查找当前目录下的鸿蒙工程（多鸿蒙工程不适用），可在父目录使用MCP进行作业。
+3.无法获取项目根路径时可通过Init_Project_Path更改初始化路径
+```json
 <details>
 <summary>Cursor</summary>
   
