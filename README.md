@@ -27,7 +27,7 @@
 
 ### 主流软件的配置方式
 <details>
-<summary>Cursor/Claude Code(项目级MCP）</summary>
+<summary>Cursor</summary>
   
 ```json
 {
@@ -46,6 +46,7 @@
 }
 ```
 </details>
+
 <details>
 <summary>VSCode</summary>
 
@@ -66,49 +67,6 @@
 }
 ```
 </details>
-
-<details>
-<summary>Qoder/CodeBuddy</summary>
-
-```json
-{
-  "mcpServers": {
-    "deveco-mcp": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@deveco-codegenie/mcp@beta"
-      ],
-      "env": {
-        "PROJECT_PATH": "path/to/your/project",//可不填写，通过调用init_project_path初始化
-        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
-      }
-    }
-  }
-}
-```
-</details>
-
-<details>
-<summary>Opnecode（项目级MCP）</summary>
-
-```json
-{
-  "mcp": {
-    "deveco-mcp": {
-      "command": ["npx", "-y", "@deveco-codegenie/mcp@beta"],
-      "type": "local",
-      "enabled": true,
-      "environment": {
-        "PROJECT_PATH": ".",
-        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
-      }
-    }
-  }
-}
-```
-</details>
-
 <details>
 <summary>Trae</summary>
 
@@ -130,9 +88,90 @@
 }
 ```
 </details>
+<details>
+<summary>Qoder</summary>
+
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "PROJECT_PATH": "path/to/your/project",//可不填写，通过调用init_project_path初始化
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+</details>
 
 <details>
-<summary>Qoder CLI（项目级MCP）</summary>
+<summary>CodeBuddy</summary>
+
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "PROJECT_PATH": "path/to/your/project",//可不填写，通过调用init_project_path初始化
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+</details>
+<details>
+<summary>Claude Code</summary>
+  
+```json
+{
+  "mcpServers": {
+    "deveco-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@deveco-codegenie/mcp@beta"
+      ],
+      "env": {
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+</details>
+<details>
+<summary>Opnecode</summary>
+
+```json
+{
+  "mcp": {
+    "deveco-mcp": {
+      "command": ["npx", "-y", "@deveco-codegenie/mcp@beta"],
+      "type": "local",
+      "enabled": true,
+      "environment": {
+        "PROJECT_PATH": ".",
+        "DEVECO_PATH": "path/to/your/deveco" // 无需到 bin 一层
+      }
+    }
+  }
+}
+```
+</details>
+<details>
+<summary>Qoder CLI</summary>
 
 ```json
 {
