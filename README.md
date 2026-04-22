@@ -46,8 +46,8 @@
 }
 ```
 </details>
+<summary>VSCode</summary>
 
-#### VSCode
 ```json
 {
   "servers": {
@@ -65,8 +65,9 @@
 }
 ```
 
+</details>
+<summary>Qoder/CodeBuddy</summary>
 
-#### Qoder/CodeBuddy
 ```json
 {
   "mcpServers": {
@@ -85,8 +86,9 @@
 }
 ```
 
+</details>
+<summary>Opnecode（项目级MCP）</summary>
 
-#### Opnecode（项目级MCP）
 ```json
 {
   "mcp": {
@@ -103,8 +105,9 @@
 }
 ```
 
+</details>
+<summary>Trae</summary>
 
-#### Trae
 ```json
 {
   "mcpServers": {
@@ -123,9 +126,9 @@
 }
 ```
 
+</details>
+<summary>Qoder CLI（项目级MCP）</summary>
 
-
-#### Qoder CLI（项目级MCP）
 ```json
 {
   "mcpServers": {
