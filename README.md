@@ -30,7 +30,7 @@
 1.在CLI上使用推荐配置项目级MCP
 2.支持智能查找当前目录下的鸿蒙工程（多鸿蒙工程不适用），可在父目录使用MCP进行作业。
 3.无法获取项目根路径时可通过Init_Project_Path更改初始化路径
-```json
+```
 <details>
 <summary>Cursor</summary>
   
