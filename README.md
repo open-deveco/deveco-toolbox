@@ -26,7 +26,8 @@
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
 
 ### 主流软件的配置方式
-#### Cursor/Claude Code(项目级MCP）
+<details>
+<summary>#### Cursor/Claude Code(项目级MCP）</summary>
 ```json
 {
   "mcpServers": {
