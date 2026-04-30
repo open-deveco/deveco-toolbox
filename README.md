@@ -295,7 +295,7 @@
 
 [https://my.feishu.cn/wiki/open-deveco/deveco-toolbox](https://my.feishu.cn/wiki/Swg4wVCfQikeSHkiyRXcPBainOb)
 
-3️⃣ 飞书答疑群（实时互动）(1群已满，2群开放中)
+3️⃣ 飞书答疑群（实时互动）(1、2群已满，3群开放中)
 
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
 
