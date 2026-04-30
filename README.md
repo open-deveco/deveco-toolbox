@@ -299,6 +299,6 @@
 
 搜索「鸿蒙 MCP 官方交流群」或扫码加入，群内可快速定位问题、获取最新版本、参与功能投票。
 
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/e0f6d822-e443-4da6-9365-5bfc40e79b9f" />
+<img width="512" height="512" alt="Image" src="(https://github.com/user-attachments/assets/c8a6053f-17da-48d5-ac10-725073b80377)" />
 我们珍视每一条反馈——你的 issue & 群消息，就是下一个版本更新的源头！
 
