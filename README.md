@@ -20,7 +20,7 @@
 |`start_app`|在模拟器或者真机中启动应用，支持启动模拟器或选择已连接的真机|
 |`verify_ui（可选）`|基于自然语言测试用例计划，在 HarmonyOS 设备上自动执行 UI 操作并验证结果|
 |`get_hilog_or_faultlog_recent`|获取模拟器/真机的hilog/faultlog日志|
-|`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
+|`get_app_ui_tree`|获取app当前页面的ui树|
 |`init_project_path（可选）`|初始化项目路径|
 |`project_sync`|对鸿蒙项目进行初始化操作|
 |`perform_ui_action`|在已启动的app页面中执行点击或者输入动作|
