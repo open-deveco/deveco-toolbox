@@ -13,7 +13,7 @@
 
 | tool_name  | 主要功能  |
 |---|---|
-|`harmonyos_knowledge_search`|查询鸿蒙云端知识库（已实时更新api22)|
+|`harmonyos_knowledge_search`|查询鸿蒙云端知识库（已实时更新api23)|
 |`check_ets_files`|对ets文件进行语法检查|
 |`check_cpp_files`|对cpp文件进行静态语法检查|
 |`build_project`|进行项目构建|
