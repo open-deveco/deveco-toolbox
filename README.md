@@ -2,11 +2,12 @@
 
 `DevEco Toolbox`是一个工具集(依赖于[`DevEco Studio`](https://developer.huawei.com/consumer/cn/download/))。在不打开`DevEco Studio`的情况下，你可以用它在`Trae`、`Curosr`、`Visual Studio Code`等AI IDE中完成鸿蒙应用开发的大多数工作。
 <br>
-## 写在前面
-    在2026年的HDC大会上，华为官方正式发布了DevEco CLI（鸿蒙能力命令行工具）。经过我们的试用，相较于 MCP 方案，命令行方式在 Agent 场景下更具优势，且官方工具已覆盖我们现有工具，包括LSP静态语法检查在内的绝大部分能力。
-    更重要的是，华为官方采用了开源共建的模式，大家可以在官方仓库提交 Issue、贡献 PR，甚至基于此打造自己的 CLI 工具————这对鸿蒙生态的长远发展意义重大。
-    鉴于此，我们决定后续不再对该 MCP 工具进行深度功能迭代，仅对该工具进行必要的缺陷修复。再次感谢大家的支持！
-    DevEco CLI官方代码仓[https://gitcode.com/openharmony-sig/deveco-cli](https://gitcode.com/openharmony-sig/deveco-cli)
+### 写在前面
+
+*  在2026年的HDC大会上，华为官方正式发布了DevEco CLI（鸿蒙能力命令行工具）。经过我们的试用，相较于 MCP 方案，命令行方式在 Agent 场景下更具优势，且官方工具已覆盖我们现有工具，包括LSP静态语法检查在内的绝大部分能力。
+*  更重要的是，华为官方采用了开源共建的模式，大家可以在官方仓库提交 Issue、贡献 PR，甚至基于此打造自己的 CLI 工具————这对鸿蒙生态的长远发展意义重大。
+*  鉴于此，我们决定后续不再对该 MCP 工具进行深度功能迭代，仅对该工具进行必要的缺陷修复。再次感谢大家的支持！
+*  DevEco CLI官方代码仓[https://gitcode.com/openharmony-sig/deveco-cli](https://gitcode.com/openharmony-sig/deveco-cli)
 
 `DevEco Toolbox`当前包含两个可执行文件：
 * `deveco-toolbox` 用于可视化配置
